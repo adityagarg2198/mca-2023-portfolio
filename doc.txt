@@ -1,0 +1,5 @@
+primary color :#1b1f24
+seconday color : #27303b
+ font primary : #085dde
+ font seconday :white
+ 
